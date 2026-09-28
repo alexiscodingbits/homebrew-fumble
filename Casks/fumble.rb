@@ -2,8 +2,8 @@
 # the DMG attached to the GitHub release.
 # Install: `brew install --cask alexiscodingbits/fumble/fumble`.
 cask "fumble" do
-  version "1.0.0"
-  sha256 "ccd80ec1dd6b5644f38da4f1ba94d49a67a147d0e04e291663176aa49f008fe1"
+  version "1.0.1"
+  sha256 "b02f5d83caa3a6cf1c30267b221e0be34f123d5e1b387c1904757227a334787c"
 
   url "https://github.com/alexiscodingbits/Fumble/releases/download/v#{version}/Fumble-#{version}.dmg"
   name "Fumble"
